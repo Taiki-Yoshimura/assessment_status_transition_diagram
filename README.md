@@ -19,3 +19,7 @@
 2. PlantUML: Export Workspace Diagrams
 3. 好きな形式を選択
 ```
+
+## 参考
+- ステート図について
+  - https://plantuml.com/ja/state-diagram
