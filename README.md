@@ -1,2 +1,2 @@
-# -assessment_status_transition_diagram
+# assessment_status_transition_diagram
 査定商材の査定状況の遷移図
